@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 published: true
+tags: [first]
 ---
 
 I got a blog.

@@ -3,6 +3,7 @@ layout: post
 title: A Flight Nearly Missed
 published: true
 category: oops
+tags: [oops]
 ---
 ## An Eventful Pre-Event
 It's best to be at the airport two hours before the plane takes off. I learned through first hand experience that this is four times as much time as you really need. Also, it's best to make sure that you're going to the right airport.
