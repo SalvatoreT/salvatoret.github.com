@@ -69,7 +69,7 @@ Less than two minutes into running, the Rust program crashed unceremoniously wit
 
     Killed
 
-I threw a similar setup on my laptop (MacBook Pro (15-inch, 2016) running 10.13.3) with the same version of Rust and the GitHub repo ran the code in case the Raspberry Pi didn't follow through. I turned the internet connection back off on my laptop and disabled my router.
+I threw a similar setup on my laptop (MacBook Pro (15-inch, 2016) running 10.13.3) with the same version of Rust and the GitHub repo. I turned the internet connection back off on my laptop and disabled my router.
 
 ![I covered the laptop in a silver mylar blanket. I don't think it made anything more secure, but it made me feel safer.](/assets/article_images/2018-02-17-powers-of-tau/silver-mylar-blanket.jpeg)
 
