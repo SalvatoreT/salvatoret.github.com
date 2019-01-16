@@ -47,12 +47,20 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-  - icon:	facebook
-    url:	https://facebook.com/stesta
+  - icon: facebook
+    url:  https://facebook.com/stesta
     desc: Connect with me Facebook
     share_url:
     share_title:
     share_link:
+
+  - icon: handshake-o
+    url:  https://mastodon.host/@sal
+    desc: Join me on the Fediverse
+    share_url:
+    share_title:
+    share_link:
+    rel:  me
 
   - icon:	github
     url:	https://github.com/salvatoret
